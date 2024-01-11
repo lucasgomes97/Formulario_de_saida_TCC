@@ -124,14 +124,14 @@ class Toplevel1:
         self.combobox5 = tk.StringVar()
 
         self.Label1 = tk.Label(self.top)
-        self.Label1.place(relx=0.3, rely=0.044, height=21, width=304)
+        self.Label1.place(relx=0.3, rely=0.044, height=20, width=400)
         self.Label1.configure(anchor='w')
         self.Label1.configure(background="#000000")
-        self.Label1.configure(compound='left')
+        self.Label1.configure(compound='center')
         self.Label1.configure(disabledforeground="#a3a3a3")
         self.Label1.configure(font="-family {Times New Roman} -size 19 -weight bold")
         self.Label1.configure(foreground="#ffffff")
-        self.Label1.configure(text='''Formulário de Saída''')
+        self.Label1.configure(text='''Controle de Saída''')
 
         '''***************************************Nome Cliente*******************************************'''
         self.nome_cliente = tk.Label(self.top)
