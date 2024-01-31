@@ -24,9 +24,7 @@ Atenciosamente,
 Lucas Gomes
 
 
-## Screenshot!
-
-[Captura de tela 2024-01-31 111133](https://github.com/lucasgomes97/Formulario_de_saida_TCC/assets/118493095/8fd27f96-7d8b-436a-972d-99ab333ebc8d)
+## Screenshot![Captura de tela 2024-01-31 111133](https://github.com/lucasgomes97/Formulario_de_saida_TCC/assets/118493095/8fd27f96-7d8b-436a-972d-99ab333ebc8d)
 
 
 
