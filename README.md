@@ -13,7 +13,7 @@ Este código em Python usa a biblioteca Tkinter para criar uma interface gráfic
 •	PIL.Image, PIL: Módulos para manipulação de imagens.
 •	reportlab.pdfgen.canvas: Módulo para gerar documentos PDF.
 
-O código já conta com um arquivo executável que esta localizado na pasta dist.. Onde pode ser feito o download e ser executado em qualquer máquina.
+O código já conta com um arquivo executável que esta localizado na pasta dist.. Onde pode ser feito o download e ser executado em qualquer máquina. Já o código em python encontra-se no formulario.py.
 
 Quero ressaltar que todas os dados apresentadas neste portfólio são originais e foram desenvolvidas por mim. Não foram utilizadas quaisquer formas de plágio ou fraude durante a elaboração, em conformidade com a política estabelecida.
 
